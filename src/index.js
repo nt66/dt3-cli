@@ -1,5 +1,5 @@
-import ChangeButton from './changeButton';
+import Radar from './radar';
 
 export {
-  ChangeButton
+  Radar
 };
